@@ -26,7 +26,7 @@ A project demonstrating HTML form controls with validation using JavaScript.
 Link to project
 https://github.com/leiliheidarishizari/Module-User-Focused-Data/tree/Form-Controls-1
 
-Technologies
+Technologies<br>
 The portfolio and projects were built using:
 
 HTML

@@ -1,4 +1,4 @@
-Portfolio of Leili Heidarishizari
+Portfolio of Leili Heidarishizari<br>
 This repository contains the code for my personal portfolio, which showcases the projects I've worked on as part of my learning journey in web development and data querying.
 
 Table of Contents

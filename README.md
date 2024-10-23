@@ -19,10 +19,12 @@ Projects
 1. Hometown Page
 A simple HTML and CSS project showcasing my hometown.
 Link to project
+https://github.com/leiliheidarishizari/my-hometown-page-Javascript
 
 2. Form Controls
 A project demonstrating HTML form controls with validation using JavaScript.
 Link to project
+https://github.com/leiliheidarishizari/Module-User-Focused-Data/tree/Form-Controls-1
 
 Technologies
 The portfolio and projects were built using:

@@ -8,7 +8,7 @@
 
 body {
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: lightblue;
   color: #333;
   padding: 20px;
 }
@@ -59,13 +59,11 @@ section h2 {
   margin-bottom: 20px;
 }
 
-/* About Me Section */
 #about p {
   font-size: 1.2rem;
   line-height: 1.8;
 }
 
-/* Projects Section */
 #projects h3 {
   font-size: 1.5rem;
   margin-top: 20px;
@@ -134,7 +132,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
   header h1 {
     font-size: 2rem;
